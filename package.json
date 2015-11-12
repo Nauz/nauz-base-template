@@ -1,0 +1,22 @@
+{
+  "name": "nauz-base-template",
+  "description": "Simple web app for templating web projects based on Roots",
+  "version": "0.0.1",
+  "author": "Nauz <nauz@yandex.ru>",
+  "devDependencies": {
+    "roots": "^3.1.0",
+    "roots-util": "^0.1.0",
+    "sprout": "0.4.x"
+  },
+  "homepage": "https://github.com/Nauz/nauz-base-template",
+  "keywords": [
+    "roots",
+    "sprout"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nauz/nauz-base-template.git"
+  }
+}
