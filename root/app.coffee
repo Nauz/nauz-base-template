@@ -1,6 +1,6 @@
 <% for_lostgrid = ''; -%>
 <%
-  if (lostgrid == true) { for_lostgrid = 'poststylus('lost'), '; }
+  if (lostgrid == true) { for_lostgrid = 'poststylus(\'lost\'), '; }
   if (jeetgrid == true) { for_jeetgrid = 'jeet(), '; }
 -%>
 axis         = require 'axis'
