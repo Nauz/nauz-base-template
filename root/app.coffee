@@ -1,4 +1,5 @@
 <% for_lostgrid = ''; -%>
+<% for_jeetgrid = ''; -%>
 <%
   if (lostgrid == true) { for_lostgrid = 'poststylus(\'lost\'), '; }
   if (jeetgrid == true) { for_jeetgrid = 'jeet(), '; }
